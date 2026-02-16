@@ -1,4 +1,4 @@
-# Hey, I'm Paval
+# Paval Sidhu
 
 **Software Engineer & Tech Lead** based in Vancouver
 
@@ -31,8 +31,3 @@ Building reliable systems and shipping products that people actually use.
 - **[IronPlate](https://github.com/PavalSidhu/IronPlate)** — Fitness tracking and workout planning platform
 - **[SportsSignal](https://github.com/PavalSidhu/SportsSignal)** — Sports prediction platform
 
----
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PavalSidhu&show_icons=true&theme=dark&hide_border=true&hide=stars" height="150" />
-</p>
