@@ -5,7 +5,6 @@
 Building reliable systems and shipping products that people actually use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavalsidhu/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:paval@example.com)
 
 ---
 
