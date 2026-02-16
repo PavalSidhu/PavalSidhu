@@ -26,7 +26,7 @@ Building reliable systems and shipping products that people actually use.
 
 ### Projects
 
-- **[MindLeaf](https://github.com/PavalSidhu/MindLeaf)** — AI-powered mental wellness journaling app
-- **[IronPlate](https://github.com/PavalSidhu/IronPlate)** — Fitness tracking and workout planning platform
-- **[SportsSignal](https://github.com/PavalSidhu/SportsSignal)** — Sports prediction platform
+- **[MindLeaf](https://github.com/PavalSidhu/MindLeaf)** Privacy-first mental wellness journaling app
+- **[IronPlate](https://github.com/PavalSidhu/IronPlate)** Fitness tracking and workout planning platform
+- **[SportsSignal](https://github.com/PavalSidhu/SportsSignal)** Sports prediction platform
 
