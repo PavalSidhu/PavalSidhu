@@ -22,11 +22,4 @@ Building reliable systems and shipping products that people actually use.
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,azure,docker&theme=dark" />
 </p>
 
----
-
-### Projects
-
-- **[MindLeaf](https://github.com/PavalSidhu/MindLeaf)** Privacy-first mental wellness journaling app
-- **[IronPlate](https://github.com/PavalSidhu/IronPlate)** Fitness tracking and workout planning platform
-- **[SportsSignal](https://github.com/PavalSidhu/SportsSignal)** Sports prediction platform
 
