@@ -31,5 +31,3 @@ I design and ship production systems, mentor developers, and care about code tha
 ### Background
 
 I studied Computer Systems at BCIT with a focus on network security, which shaped how I think about building reliable systems. Before moving into leadership, I spent years as an application developer and DBA, giving me perspective across the full stack.
-
-When I'm not writing code, I'm probably reviewing it.
